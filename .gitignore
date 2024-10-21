@@ -1,0 +1,12 @@
+# Configuration and Log files
+/logs/*
+/conf/*
+
+# Wordpress project default files
+/app/public/wp-admin/*
+/app/public/wp-includes/*
+/app/public/*.php
+
+# License files
+/app/public/.htaccess
+/app/public/license.txt
